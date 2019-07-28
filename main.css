@@ -429,3 +429,10 @@ header{
     font-size: 2vw;
     cursor: pointer;
 }
+#calculator{
+    overflow: hidden;
+    display: none;
+    position: relative;
+    z-index: -1;
+}
+
